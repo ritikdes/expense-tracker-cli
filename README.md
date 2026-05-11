@@ -16,6 +16,6 @@ A lightweight, local-first Command Line Interface (CLI) tool to track and analyz
    git clone https://github.com/ritikdes/expense-tracker-cli.git
 
 ## 📊 Sample Output
-![View all Expenses]<img width="808" height="426" alt="image" src="https://github.com/user-attachments/assets/78e77e13-31d7-44b3-aacb-61b3d3eb7699" />
+- View all Expenses <img width="808" height="426" alt="image" src="https://github.com/user-attachments/assets/78e77e13-31d7-44b3-aacb-61b3d3eb7699" />
 
-![View Summary]<img width="812" height="479" alt="image" src="https://github.com/user-attachments/assets/bd0d4bf3-4f75-452f-a15e-12409f2a970f" />
+- View Summary <img width="812" height="479" alt="image" src="https://github.com/user-attachments/assets/bd0d4bf3-4f75-452f-a15e-12409f2a970f" />
